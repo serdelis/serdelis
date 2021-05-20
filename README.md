@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<meta charset="utf-8">
+<!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200&family=Texturina:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+<head>
 
-You can use the [editor on GitHub](https://github.com/serdelis/serdelis/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<title>serxio rodríguez</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<link rel="stylesheet" href="styles2.css">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</head>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<body>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+        <div class="row g-0">
+        
+            <div class="col-md-6">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/serdelis/serdelis/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+                <div class="leftside d-flex justify-content-center align-items-center">
+                    <img class="img" src="C:\Users\Lenovo\Desktop\web-skillshare\images\caravagg.png" alt="serdelis">
+                </div>
+               
+            </div>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+                <div class="col-md-6">
+
+                    <div class="rightside d-flex justify-content-center align-items-center">
+                        <p class="serlis">ser</p>
+                            <p class="midp">de</p>
+                        <p class="serlis">lis</p>
+                        
+
+                                <div class="secciones d-flex">
+                                    <a href="arte.html">arte</a>
+                                    <a href="web.html">web</a>
+                                    <a href="diseño.html">diseño</a>
+                                </div>
+
+                                <div class="footer">
+                                    &copy;2021 Serxio Rodríguez. Todos los derechos reservados.
+                            </div>
+
+                    </div>
+
+                </div>
+
+
+                
+        </div>
+
+
+</body>
+
+
+
+
+
+
+</html>
